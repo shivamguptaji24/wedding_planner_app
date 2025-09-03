@@ -1,0 +1,26 @@
+[
+  {
+    "id": 1,
+    "name": "Royal Garden Banquet",
+    "location": "Delhi",
+    "price_min": 50000,
+    "price_max": 150000,
+    "capacity": 300
+  },
+  {
+    "id": 2,
+    "name": "Oceanview Resort",
+    "location": "Goa",
+    "price_min": 80000,
+    "price_max": 220000,
+    "capacity": 200
+  },
+  {
+    "id": 3,
+    "name": "Heritage Palace",
+    "location": "Jaipur",
+    "price_min": 60000,
+    "price_max": 180000,
+    "capacity": 400
+  }
+]
